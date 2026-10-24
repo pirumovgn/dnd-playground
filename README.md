@@ -9,6 +9,7 @@
 
 
 ### Сам проект на сервере (с использованием nginx и все как надо) - https://dndplayground.ru
+(Если вы в России то выключите VPN перед открытием)
 
 ### Технологический стэк:
 #### Backend:
@@ -96,7 +97,8 @@ DISABLE_ESLINT_PLUGIN=true
 ### Project Idea:
 Create a platform with virtual playing fields for dungeons & dragons, where you can draw in real time and give or take away access to your fields to other players, save fields to a database
 
-### The project is hosted at - http://5.35.126.208:3000
+### The project is hosted at - https://dndplayground.ru
+(If you're in Russia - turn off vpn, else turn it on and connect to russian server)
 
 ### Technology Stack:
 #### Backend:
