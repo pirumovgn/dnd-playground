@@ -11,6 +11,14 @@
 ### Сам проект на сервере (с использованием nginx и все как надо) - https://dndplayground.ru
 (Если вы в России то выключите VPN перед открытием)
 
+
+
+
+### Демонстрация работы:
+
+<img src="demonstration_gif_for_readme/demo.gif" width="700" alt="Demo">
+
+
 ### Технологический стэк:
 #### Backend:
 - Python 3.12
